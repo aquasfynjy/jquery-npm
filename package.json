@@ -1,0 +1,26 @@
+{
+  "name": "jquery-npm",
+  "version": "1.0.0",
+  "description": "test-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquasfynjy/jquery-npm.git"
+  },
+  "keywords": [
+    "jquery",
+    "npm"
+  ],
+  "author": "aquas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquasfynjy/jquery-npm/issues"
+  },
+  "homepage": "https://github.com/aquasfynjy/jquery-npm#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
